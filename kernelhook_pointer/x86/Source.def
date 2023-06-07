@@ -1,0 +1,10 @@
+LIBRARY
+EXPORTS
+InitializeCallAddress @ 1
+InitializeDriver @ 2
+KeSetVirtualMemory @ 3
+KeReadProcesMemory @ 4
+KeWriteProcessMemory @ 5
+KeAllocateMemory @ 6
+KeFreeAllocateMemory @ 7
+KeGetModuleHandle @ 9
